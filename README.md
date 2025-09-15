@@ -1,5 +1,9 @@
 # 💎 CRM Application for Jewel Management
 
+[![Watch the Project Demo](https://img.youtube.com/vi/Yg8Hxd88u6E/0.jpg)](https://youtu.be/Yg8Hxd88u6E)
+
+---
+
 ## 📖 Project Description
 This project is a **CRM (Customer Relationship Management) application** designed specifically for the jewel industry.  
 It helps jewel businesses manage customers, inventory, billing, pricing, and orders efficiently using **Salesforce**.  
@@ -31,21 +35,9 @@ The application enables:
 
 ---
 
-
-
-👨‍💻 Team Members
-
-Sri Hari V – Team Leader (23bai050@kprcas.ac.in
-)
-
-Tharani T – Team Member 1 (23bai055@kprcas.ac.in
-)
-
-Pritesh R S – Team Member 2 (23bai038@kprcas.ac.in
-)
-
-Vigneswari M – Team Member 3 (23bai058@kprcas.ac.in
-)
-
-Varsha A – Team Member 4 (23bai056@kprcas.ac.in
-)
+## 👨‍💻 Team Members
+- **Sri Hari V** – Team Leader (23bai050@kprcas.ac.in)
+- **Tharani T** – Team Member 1 (23bai055@kprcas.ac.in)
+- **Pritesh R S** – Team Member 2 (23bai038@kprcas.ac.in)
+- **Vigneswari M** – Team Member 3 (23bai058@kprcas.ac.in)
+- **Varsha A** – Team Member 4 (23bai056@kprcas.ac.in)
